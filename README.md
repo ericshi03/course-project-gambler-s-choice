@@ -39,3 +39,6 @@ This package contains previous implementations of files that have been replaced 
 Currently our implementation does not support multiplayer with our login system. Some of our next steps would be to implement a "pass and play" system where users could make their move and pass it along to the next player.
 
 A more ambitious idea however would be to run our game on a server and have each player connect to said server to make moves.
+
+The original repository for this can be found here:
+https://github.com/CSC207-2022F-UofT/course-project-gambler-s-choice 
